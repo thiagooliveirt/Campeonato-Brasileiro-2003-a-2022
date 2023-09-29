@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-Python" height="50" width="38" src="https://seeklogo.com/images/A/avai-futebol-clube-logo-C2BCEE354F-seeklogo.com.png">
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://seeklogo.com/images/B/Bahia-logo-0BF5C9A502-seeklogo.com.png">
   <img align="center" alt="Rafa-Python" height="50" width="42" src="https://seeklogo.com/images/B/Botafogo_de_Futebol_e_Regatas-logo-ECE113C77B-seeklogo.com.png">
-  <img align="center" alt="Rafa-Python" height="50" width="38" src="https://seeklogo.com/images/B/Brasiliense_Futebol_Clube-DF-logo-24AEB16A54-seeklogo.com.png">
+  <img align="center" alt="Rafa-Python" height="50" width="42" src="https://seeklogo.com/images/B/Brasiliense_Futebol_Clube-DF-logo-24AEB16A54-seeklogo.com.png">
 
 
 
